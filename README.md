@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋My Profile👋
+
+Hello my name is `Nurmi` 
+
+Im studying at Revou Tech Academy Batch 3
+
